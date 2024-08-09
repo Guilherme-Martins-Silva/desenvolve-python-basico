@@ -1,0 +1,10 @@
+Solução com pseudocódigo
+
+
+1  INICIO
+2  LEIA N
+3  N1 = N-1
+4  N2 = 10-N
+5  R = (N1 X 10) + N2
+6  IMRPIMA R
+7  FIM
